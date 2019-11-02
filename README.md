@@ -10,6 +10,7 @@ I added a audio track like shown in the Switch examples.
 and added a extra texture in to the screen.
 
 Download here the [Binary build](https://anonfile.com/c083H09and/DcnigmaSDLTEST_nro) for your switch.
+![alt text](http://dcnigma.eu5.org/wp-content/uploads/2019/11/2019110213134200-9129043EF2AAD7F1157CF852BACB8F7D.jpg)
 
 Need to learn much more about programming but I getting there LoL.
 
