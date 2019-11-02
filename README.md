@@ -1,4 +1,4 @@
-# SwitchSDL2Test
+# Switch SDL2 Test
 just another Switch SDL Test.
 
 Based on https://github.com/ckarcz/switch-sdl2-example .   
